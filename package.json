@@ -1,4 +1,15 @@
 {
   "name": "@blacksheep-777/simple-image",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "An image plugin for EditorJS",
+  "license": "MIT",
+  "repository": "simple-image",
+  "main": "index.js",
+  "keywords": [
+    "editorJS",
+    "imagePlugin",
+    "npm",
+    "package",
+    "plugin"
+  ]
 }
